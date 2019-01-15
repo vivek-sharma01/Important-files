@@ -1,0 +1,17 @@
+Javascript Important
+
+Number + Number -> Addition
+Boolean + Number -> Addition
+Boolean + Number -> Addition
+Number + String -> Concatenation
+String + Boolean -> Concatenation
+String + String -> Concatenation
+	
+https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+https://medium.freecodecamp.org/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb
+https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795
+https://www.geeksforgeeks.org/understanding-variable-scopes-in-javascript/
+https://hackernoon.com/es6-features-you-need-to-know-now-b525e2b0755e
+https://hackernoon.com/javascript-state-encapsulation-without-classes-in-2019-97e06c6a9643
+https://www.growingwiththeweb.com/2012/08/pseudo-classes-vs-pseudo-elements.html
